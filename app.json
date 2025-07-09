@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "expo-sqlite"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "b2bbe37f-f7e3-452e-91bd-f42ba5c45108"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.loerstudio0001.appsimopagnocoachingspc"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
